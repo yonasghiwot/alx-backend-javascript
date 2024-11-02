@@ -1,7 +1,7 @@
 /**
  * Creates a new Int8Array with the given length,
- * sets the value at the specified position, and 
- * returns a DataView of the array.
+ * sets the value at the specified position, and
+ * returns a DataView of the array
  *
  * If adding the value is not possible the error
  * Position outside range should be thrown.

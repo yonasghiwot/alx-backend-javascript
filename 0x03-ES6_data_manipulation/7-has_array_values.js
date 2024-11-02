@@ -1,5 +1,5 @@
 /**
- * Determines whether the given Set has 
+ * Determines whether the given Set has
  * all the values from the given array.
  *
  * @param {Set} set - The Set to check

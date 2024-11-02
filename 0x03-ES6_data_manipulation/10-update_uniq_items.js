@@ -1,8 +1,8 @@
 /**
  * Updates the values of unique items in a Map.
  *
- * For each entry of the map where the quantity is 1, 
- * update the quantity to 100.
+ * For each entry of the map where the quantity is 1,
+ * update the quantity to 100
  *
  * @param {Map} map - Map to process
  */

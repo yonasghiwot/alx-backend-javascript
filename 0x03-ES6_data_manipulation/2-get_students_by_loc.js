@@ -1,6 +1,6 @@
 /**
- * Filters a list of students by location and returns 
- * the students from the specified city.
+ * Filters a list of students by location and returns
+ * the students from the specified city
  *
  * @param {Array} students - The list of students to filter
  * @param {string} city - The city to filter students by
